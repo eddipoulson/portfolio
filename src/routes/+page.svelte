@@ -59,7 +59,7 @@
 		Passionate about creating efficient software, and working on whatever's currently in my garage.
 	</p>
 	<div class="mt-2 flex lg:gap-4 gap-2">
-		<a href="https://github.com/UnitedPuggs" target="_blank" class="opacity-50 hover:opacity-100">GitHub</a>
+		<a href="https://github.com/eddipoulson" target="_blank" class="opacity-50 hover:opacity-100">GitHub</a>
 		<span class="opacity-50">/</span>
 		<a href="https://www.linkedin.com/in/eddie-poulson/" target="_blank" class="opacity-50 hover:opacity-100">LinkedIn</a>
 	</div>
